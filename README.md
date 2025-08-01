@@ -5,7 +5,7 @@ A **privacy-focused**, **offline-capable** rainbow text generator for World of W
 ## 🌈 Features
 - Generate rainbow-colored text for WoW chat, addon names, and addon text
 - **100% client-side** - your text never leaves your browser
-- **Works offline** after initial load
+- **Fully offline** - includes all dependencies (Vue.js + Pico CSS)
 - Clean, responsive interface using Pico CSS
 
 ## 🔗 Try it out
@@ -14,7 +14,7 @@ A **privacy-focused**, **offline-capable** rainbow text generator for World of W
 ## 🔒 Why use this instead of online generators?
 Unlike PHP-based online tools that send your text to external servers, this generator:
 - Keeps your data completely private
-- Works without an internet connection
+- Works without any internet connection (download the repo)
 - No server dependencies or data transmission
 
 ---
