@@ -2,6 +2,8 @@
 
 A **privacy-focused**, **offline-capable** rainbow text generator for World of Warcraft. No data is sent to external servers - everything runs locally in your browser using JavaScript.
 
+![Rainbow Text Example](example.png)
+
 ## 🌈 Features
 - Generate rainbow-colored text for WoW chat, addon names, and addon text
 - **100% client-side** - your text never leaves your browser
